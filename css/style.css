@@ -21,9 +21,29 @@
 }
 .panda_slider_button_div button
 {
-    background-image: linear-gradient(145deg,#ff4e95,#ff1b75);
+    background: linear-gradient(145deg,#ff4e95,#ff1b75);
 }
 
 /******************
  Categories  
  *****************/
+ .panda_category_watch
+ {
+    background: linear-gradient(145deg,#ffa545,#ffcf1b);
+ }
+ .panda_category_bag
+ {
+    background: linear-gradient(145deg,#ff4e95,#ffcf1b);
+ }
+ .panda_category_shoes
+ {
+    background: linear-gradient(145deg,#4171ef,#3F0DF9);
+ }
+
+ /******************
+ Cards 
+ *****************/
+ .panda_card_bg
+ {
+     background-color: #f4f4f4;
+ }
