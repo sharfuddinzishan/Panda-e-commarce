@@ -1,0 +1,29 @@
+/******************
+ Slider  
+ *****************/
+.panda_slider_bg
+{
+    background-color: #FEEAE9;
+}
+.panda_slider_img_div
+{
+    width: 400px;
+    height: 380px;
+}
+.panda_slider_img_div img
+{
+    width: 90%;
+    height: 80%;
+}
+.panda_slider_price_color
+{
+    color:#FF136F;
+}
+.panda_slider_button_div button
+{
+    background-image: linear-gradient(145deg,#ff4e95,#ff1b75);
+}
+
+/******************
+ Categories  
+ *****************/
