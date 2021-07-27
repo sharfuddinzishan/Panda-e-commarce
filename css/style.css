@@ -1,7 +1,8 @@
 /******************
  Slider  
  *****************/
-.panda_slider_bg
+.panda_slider_bg,
+.panda_signup_bg /* Signup Section */
 {
     background-color: #FEEAE9;
 }
@@ -46,4 +47,12 @@
  .panda_card_bg
  {
      background-color: #f4f4f4;
+ }
+
+ /******************
+SignUp Section
+ *****************/
+ .panda_input_group
+ {
+    max-width: 300px;
  }
